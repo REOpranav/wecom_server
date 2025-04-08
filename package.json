@@ -4,7 +4,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node sever.js"
+    "start": "node sever.js",
+    "build": "echo 'No build step needed'"
   },
   "author": "pranavavadivel",
   "license": "ISC",
